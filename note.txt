@@ -1,0 +1,7 @@
+/*
+2. Which part is supplied by all suppliers? List Pname
+3. Which supplier has the second maximum status? List Sname and status
+4. List Sname for the supplier who supplies the third maximum quantities
+*/
+
+SELECT * FROM SUPPLIER JOIN SUPPLY USING (s_no) JOIN PART USING (p_no)

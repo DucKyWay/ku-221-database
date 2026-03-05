@@ -5,6 +5,21 @@
 4. List Sname for the supplier who supplies the third maximum quantities
 */
 
+/* 
+1.) 
+SELECT * FROM SUPPLIER 
+	JOIN SUPPLY USING (S_NO) 
+	JOIN PART USING (P_NO)
+	WHERE CITY = 'Sumrong' AND COLOR = 'RED';
+
+2.)
+
+3.)
+
+4.)
+
+*/
+
 /*
 SELECT SNAME, CITY
 FROM SUPPLIER
