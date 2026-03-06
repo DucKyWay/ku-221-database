@@ -3,6 +3,11 @@
 2. Which part is supplied by all suppliers? List pname
 3. Which supplier has the second maximum status? List sname and status
 4. List sname for the supplier who supplies the third maximum quantities
+5. แสดงรายการ sname และ city ของ supplier ที่อาศัยอยู่ใน rayong และจำหน่าย red part
+6. แสดงรายการ sname ของ supplier ที่มี qty มากสุดเป็นอันดับสอง
+7. แสดงรายการ pname ของ part ที่ถูกจำหน่ายโดยมากกว่าหนึ่ง supplier
+8. แสดงรายการ color ของ part ที่มีจำนวน supplier สูงสุด
+9. แสดงรายการ s_no และ sname ของ supplier ที่อยู่ใน bangkok และจำหน่าย gray part
 */
 
 /*
